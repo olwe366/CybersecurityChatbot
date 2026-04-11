@@ -1,0 +1,3 @@
+# Commit 2 - Add greeting and voice
+git add Program.cs
+git commit -m "Added voice greeting and user name input with validation"
